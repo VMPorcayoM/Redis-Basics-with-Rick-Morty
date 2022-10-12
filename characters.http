@@ -1,0 +1,21 @@
+GET http://localhost:3000/character
+
+###
+GET http://localhost:3000/character/34
+
+
+###
+GET http://localhost:3000/location
+
+
+###
+GET http://localhost:3000/location/4
+
+
+###
+GET http://localhost:3000/episode
+
+
+
+###
+GET http://localhost:3000/episode/4
